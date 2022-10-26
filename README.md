@@ -1,1 +1,1 @@
-# tanishpoddar.github.io
+# tanish.github.io
