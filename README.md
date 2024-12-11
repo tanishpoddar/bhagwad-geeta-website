@@ -25,7 +25,7 @@ The website is built using the following technologies:
 
 You can access the "Exploring Geeta" website by visiting the following link:
 
-[https://github.com/tanishpoddar/exploring-geeta](https://github.com/tanishpoddar/exploring-geeta)
+[https://tanish-poddar.is-a.dev/exploring-geeta/](https://tanish-poddar.is-a.dev/exploring-geeta/)
 
 The PDF version of the Bhagwad Geeta can be accessed directly through the navigation menu on the website.
 
